@@ -1,4 +1,4 @@
-## Hey there !
+## Hey there! :octocat:
 
 Welcome to my GitHub page.
 
